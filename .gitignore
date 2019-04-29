@@ -1,0 +1,6 @@
+datasets/
+.DS_Store
+.vscode
+*.numbers
+teste/
+*.xlsx
